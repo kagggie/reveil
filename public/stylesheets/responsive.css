@@ -1,0 +1,358 @@
+
+@media only screen and (max-width: 1225px) {
+    .landing-text {
+        margin-left: 275px;
+        margin-right: 275px;
+    }
+}
+
+@media only screen and (max-width: 992px) {
+    /* navigation */
+    #navigation ul li {
+        margin-left: 50px;
+    }
+    #navigation ul {
+        margin-right: 40px;
+    }
+    /* landing page */
+    #headers-landing {
+        left: 3%;
+    }
+    #headers-landing img {
+        width: 350px;
+        height: 140px;
+    }
+    #welcome-paragraph {
+        font-size: 25px;
+    }
+    .headers-on-photo {
+        font-size: 40px;    
+    }
+    .landing-text {
+        font-size: 15px;
+        margin: 50px 10px 40px 10px;
+        line-height: 38px;
+        margin-left: 210px;
+        margin-right: 210px;
+    }
+    .buttons-container {
+        width: 23%;
+    }
+    /* about us */
+    #photo-slide {
+        width: 60%;
+    }
+    /* offer */
+    #aside-offer {
+        display: none;
+    }
+    #offer {
+        width: 80%;
+        margin-left: 10%;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    /* navigation */
+    #navigation ul li {
+        margin-left: 25px;
+    }
+    #navigation ul {
+        margin-right: 20px;
+    }
+    /* landing page */
+    #headers-landing {
+        left: 2%;
+    }
+    #headers-landing img {
+        width: 275px;
+        height: 115px;
+    }
+    #welcome-paragraph {
+        font-size: 20px;
+        padding: 40px 15px;
+    }
+    .headers-on-photo {
+        font-size: 30px;    
+    }
+    .landing-text {
+        margin: 40px 10px 30px 10px;
+        line-height: 35px;
+        margin-left: 120px;
+        margin-right: 120px;
+    }
+    .buttons-container {
+        width: 27%;
+    }
+    a .btn-landing {
+        font-size: 14px;
+    }
+    /* footer */
+    #footer {
+        font-size: 13px;
+    }
+    .footer-elements {
+        padding-left: 40px;
+    }
+    #footer-logo {
+        margin-top: 0;
+    }
+    #footer-logo img {
+        height: 56px;
+        width: 120px;
+    }
+    #paragraph-footer {
+        font-size: 12px;
+        padding-left: 15px;
+    }
+    /* about us */
+    #about-us h1 {
+        font-size: 30px;
+    }
+    #about-us {
+        margin-top: 40px;
+    }
+    #photos-about img {
+        margin-top: 10px;
+    }
+    #photo-slide {
+        width: 65%;
+        margin-bottom: 7%;
+    }
+    /* offer */
+    .headers-offer h3 {
+        font-size: 19px;
+        margin-top: 6px;
+    }
+    #offer-photo h1 {
+        font-size: 40px;
+    }
+    .headers-offer i {
+        font-size: 23px;
+    }
+    /* contact */
+    #contact h1 {
+        font-size: 30px;
+        margin-top: 20px;
+        margin-bottom: 35px;
+    }  
+    #contact h3 {
+        font-size: 20px;
+    }  
+    #contact-phone {
+        margin-top: 50px;
+    } 
+}
+
+
+@media only screen and (max-width: 576px) {
+    /* navigation */
+    #button-menu {
+        margin-right: 10px;
+    }
+    #navigation ul li {
+        margin-left: 0;
+    }
+    #navigation ul {
+        margin-right: 0;
+        text-align: center;
+    }
+    #navigation ul li a {
+        margin-left: 0;
+        text-align: center;
+    }
+    /* landing page */
+    #headers-landing {
+        left: 1%;
+        top: 35%;
+    }
+    #headers-landing img {
+        width: 225px;
+        height: 95px;
+    }
+    #welcome-paragraph {
+        font-size: 18px;
+        padding: 35px 15px;
+        margin-top: 35px;
+        margin-bottom: 15px;
+    }
+    .headers-on-photo {
+        font-size: 25px;    
+    }
+    .landing-text {
+        font-size: 14px;
+        margin: 35px 10px 25px 10px;
+        line-height: 30px;
+        margin-left: 20px;
+        margin-right: 20px;
+    }
+    .buttons-container {
+        width: 31%;
+    }
+    a .btn-landing {
+        font-size: 13px;
+    }
+    /* footer */
+    #footer {
+        font-size: 11px;
+    }
+    #paragraph-footer {
+        font-size: 10px;
+        padding-left: 25px;
+    }
+    .footer-elements {
+        padding-left: 10px;
+    }
+    #footer-logo {
+        margin-top: 0;
+    }
+    #row-footer {
+        padding-left: 50px;
+    }
+    /* about us */
+    #about-us h1 {
+        font-size: 25px;
+    }
+    #about-us {
+        margin-top: 30px;
+    }
+    #photo-slide {
+        width: 80%;
+        margin-bottom: 8%;
+    }
+    #about-us p {
+        font-size: 14px;
+    }
+    /* cosmetics */
+    .cosmetics {
+        margin-top: 40px;
+        margin-bottom: 20px;
+        font-size: 14px;
+    }
+    /* offer */
+    .headers-offer h3 {
+        font-size: 17px;
+        margin-top: 5px;
+    }
+    #offer-photo h1 {
+        font-size: 32px;
+    }
+    .paragraph-offer {
+        margin-left: 15px;
+        margin-right: 5px;
+    }
+    .table-offer {
+        margin-left: 15px;
+    }
+    #offer ul li {
+        margin-left: 15px;
+    }
+    .headers-offer i {
+        font-size: 21px;
+        padding-top: 9px;
+    }
+    /* contact */
+    #contact h1 {
+        font-size: 35px;
+        margin-top: 15px;
+        margin-bottom: 25px;
+        text-align: center;
+    }  
+    #contact-phone {
+        margin-top: 30px;
+    }
+    #contact-like {
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    #contact-hours {
+        margin-top: 20px;
+    }
+    .contact-elements {
+        margin-left: 40px;
+    }
+}
+
+@media only screen and (max-width: 468px) {
+    /* landing page */
+    #headers-landing {
+        left: 0;
+        top: 43%;
+    }
+    #headers-landing img {
+        width: 165px;
+        height: 66px;
+    }
+    #welcome-paragraph {
+        font-size: 15px;
+        padding: 25px 10px;
+    }
+    .headers-on-photo {
+        font-size: 18px;    
+    }
+    .background-about h2 {
+        left: 5%;
+    }
+    .landing-text {
+        font-size: 13px;
+        margin: 30px 15px 20px 15px;
+        line-height: 20px;
+    }
+    .buttons-container {
+        width: 40%;
+    }
+    a .btn-landing {
+        font-size: 12px;
+    }
+    /* footer */
+    #row-footer {
+        padding-left: 30px;
+    }
+    /* about us */
+    #about-us h1 {
+        font-size: 21px;
+    }
+    #about-us {
+        margin-top: 20px;
+    }
+    #photo-slide {
+        width: 90%;
+        margin-bottom: 9%;
+    }
+    #about-us p {
+        font-size: 13px;
+    }
+    #about-us p:last-of-type {
+        display: none;
+    }
+    /* offer */
+    #offer {
+        width: 90%;
+        margin-left: 5%;
+    }
+    #offer-photo h1 {
+        font-size: 29px;
+    }
+    .headers-offer h3 {
+        font-size: 14px;
+    }
+    #offer ul li,
+    .table-offer,
+    .paragraph-offer {
+        font-size: 12px;
+    }
+    .headers-offer i {
+        font-size: 19px;
+    }
+    /* contact */
+    #contact h1 {
+        font-size: 25px;
+        margin-top: 10px;
+        margin-bottom: 25px;
+    } 
+    .contact-elements {
+        margin-left: 20px;
+    }
+}
+
+
